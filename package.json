@@ -1,0 +1,12 @@
+{
+  "name": "holiday-ical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "xbf321",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.2"
+  }
+}
