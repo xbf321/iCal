@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "xbf321",
   "license": "ISC",
+  "scripts": {
+    "build": "node index.js"
+  },
   "dependencies": {
     "fs-extra": "^7.0.0",
     "glob": "^7.1.2"

@@ -31,7 +31,8 @@ json 格式
 ## 运行
 
 ```js
-node index.js
+yarn install
+yarn run build
 ```
 
 ## 最终文件在 /dist/holidays.ics
