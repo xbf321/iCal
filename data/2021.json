@@ -57,6 +57,7 @@
 },{
   "DTSTART;VALUE=DATE": "20210918",
   "DTEND;VALUE=DATE": "20210918",
+  "COLOR":"turquoise",
   "SUMMARY": "中秋补班"
 },{
   "DTSTART;VALUE=DATE": "20210919",
