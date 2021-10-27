@@ -5,7 +5,7 @@
 },{
   "DTSTART;VALUE=DATE": "20210207",
   "DTEND;VALUE=DATE": "20210207",
-  "SUMMARY": "春节补班"
+  "SUMMARY": "🚨春节补班"
 },{
   "DTSTART;VALUE=DATE": "20210211",
   "DTEND;VALUE=DATE": "20210218",
@@ -13,7 +13,7 @@
 },{
   "DTSTART;VALUE=DATE": "20210220",
   "DTEND;VALUE=DATE": "20210220",
-  "SUMMARY": "春节补班"
+  "SUMMARY": "🚨春节补班"
 },{
   "DTSTART;VALUE=DATE": "20210226",
   "DTEND;VALUE=DATE": "20210226",
@@ -29,7 +29,7 @@
 },{
   "DTSTART;VALUE=DATE": "20210425",
   "DTEND;VALUE=DATE": "20210425",
-  "SUMMARY": "五一补班"
+  "SUMMARY": "🚨五一补班"
 },{
   "DTSTART;VALUE=DATE": "20210501",
   "DTEND;VALUE=DATE": "20210506",
@@ -37,7 +37,7 @@
 },{
   "DTSTART;VALUE=DATE": "20210508",
   "DTEND;VALUE=DATE": "20210508",
-  "SUMMARY": "五一补班"
+  "SUMMARY": "🚨五一补班"
 },{
   "DTSTART;VALUE=DATE": "20210504",
   "DTEND;VALUE=DATE": "20210504",
@@ -57,7 +57,8 @@
 },{
   "DTSTART;VALUE=DATE": "20210918",
   "DTEND;VALUE=DATE": "20210918",
-  "SUMMARY": "中秋补班"
+  "COLOR":"turquoise",
+  "SUMMARY": "🚨中秋补班"
 },{
   "DTSTART;VALUE=DATE": "20210919",
   "DTEND;VALUE=DATE": "20210922",
@@ -65,7 +66,7 @@
 },{
   "DTSTART;VALUE=DATE": "20210926",
   "DTEND;VALUE=DATE": "20210926",
-  "SUMMARY": "十一补班"
+  "SUMMARY": "🚨十一补班"
 },{
   "DTSTART;VALUE=DATE": "20211001",
   "DTEND;VALUE=DATE": "20211008",
@@ -73,7 +74,7 @@
 },{
   "DTSTART;VALUE=DATE": "20211009",
   "DTEND;VALUE=DATE": "20211009",
-  "SUMMARY": "十一补班"
+  "SUMMARY": "🚨十一补班"
 },{
   "DTSTART;VALUE=DATE": "20211224",
   "DTEND;VALUE=DATE": "20211224",
